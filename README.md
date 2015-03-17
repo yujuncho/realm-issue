@@ -13,4 +13,4 @@ ModelInherit, the _deletedFromRealm variable switches from NO to YES.
 
 Below is an illustration of the described behaviors
 
-![alt tag](http://imgur.com/BuQq9DL)
+![alt tag](http://i.imgur.com/BuQq9DL.png)
